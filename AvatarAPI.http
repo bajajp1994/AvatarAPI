@@ -1,0 +1,11 @@
+@AvatarAPI_HostAddress = http://localhost:5180
+
+GET {{AvatarAPI_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{AvatarAPI_HostAddress}}/todos/1
+Accept: application/json
+
+###

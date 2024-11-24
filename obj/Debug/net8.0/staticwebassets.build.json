@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "kAwhJ0QADzFq/WZ0l/rbe9oWBNx/hpAFLClyaWcxOaY=",
+  "Source": "AvatarAPI",
+  "BasePath": "_content/AvatarAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AvatarAPI\\wwwroot",
+      "Source": "AvatarAPI",
+      "ContentRoot": "C:\\Users\\priyankabajaj\\source\\repos\\AvatarAPI\\wwwroot\\",
+      "BasePath": "_content/AvatarAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\priyankabajaj\\source\\repos\\AvatarAPI\\wwwroot\\index.html",
+      "SourceId": "AvatarAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\priyankabajaj\\source\\repos\\AvatarAPI\\wwwroot\\",
+      "BasePath": "_content/AvatarAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sf3sozalbz",
+      "Integrity": "mJt3snW4vWbf7ocfzbA2mGRvXqABUDzXS58A/ej51ks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\priyankabajaj\\source\\repos\\AvatarAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJt3snW4vWbf7ocfzbA2mGRvXqABUDzXS58A/ej51ks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 18:18:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJt3snW4vWbf7ocfzbA2mGRvXqABUDzXS58A/ej51ks="
+        }
+      ]
+    },
+    {
+      "Route": "index.sf3sozalbz.html",
+      "AssetFile": "C:\\Users\\priyankabajaj\\source\\repos\\AvatarAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJt3snW4vWbf7ocfzbA2mGRvXqABUDzXS58A/ej51ks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 18:18:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sf3sozalbz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJt3snW4vWbf7ocfzbA2mGRvXqABUDzXS58A/ej51ks="
+        }
+      ]
+    }
+  ]
+}

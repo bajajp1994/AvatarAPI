@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jq0Tmd9EdxM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\priyankabajaj\\source\\repos\\AvatarAPI\\AvatarAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\microsoft.data.sqlite\\9.0.0\\microsoft.data.sqlite.9.0.0.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.11\\microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\priyankabajaj\\.nuget\\packages\\runtime.win-arm64.microsoft.dotnet.ilcompiler\\8.0.11\\runtime.win-arm64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
